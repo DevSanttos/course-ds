@@ -16,10 +16,7 @@ from estruturas_condicionais.exercicio_2_2 import verifica_multa
 from estruturas_condicionais.exercicio_2_3 import maior_menor
 from estruturas_condicionais.exercicio_2_4 import calcula_aumento_salarial
 from estruturas_condicionais.exercicio_2_5 import calcula_preco_viagem
-
-
-
-
+from estruturas_condicionais.exercicio_2_6 import realiza_operacao
 
 
 
