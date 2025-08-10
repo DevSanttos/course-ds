@@ -1,19 +1,21 @@
-from exercicio_1_1 import soma_expressao
-from exercicio_1_2 import soma_variaveis
-from exercicio_1_3 import area_triangulo
-from exercicio_1_4 import aumento_salario
-from exercicio_1_5 import media_altura
-from exercicio_1_6 import metros_mil
-from exercicio_1_7 import converte_tempo
-from exercicio_1_8 import calcula_desconto
-from exercicio_1_9 import calcula_tempo_viagem
-from exercicio_1_10 import converte_temperatura
-
-print(calcula_tempo_viagem())
-
-
-
-
+from variaveis_e_operacoes_basicas.exercicio_1_1 import soma_expressao
+from variaveis_e_operacoes_basicas.exercicio_1_2 import soma_variaveis
+from variaveis_e_operacoes_basicas.exercicio_1_3 import area_triangulo
+from variaveis_e_operacoes_basicas.exercicio_1_4 import aumento_salario
+from variaveis_e_operacoes_basicas.exercicio_1_5 import media_altura
+from variaveis_e_operacoes_basicas.exercicio_1_6 import metros_mil
+from variaveis_e_operacoes_basicas.exercicio_1_7 import converte_tempo
+from variaveis_e_operacoes_basicas.exercicio_1_8 import calcula_desconto
+from variaveis_e_operacoes_basicas.exercicio_1_9 import calcula_tempo_viagem
+from variaveis_e_operacoes_basicas.exercicio_1_10 import converte_temperatura
+from variaveis_e_operacoes_basicas.exercicio_1_11 import calcula_aluguel_carro
+from variaveis_e_operacoes_basicas.exercicio_1_12 import realiza_calculo_quilowatt
+from variaveis_e_operacoes_basicas.exercicio_1_13 import opera_real
+from estruturas_condicionais.exercicio_2_1 import analisa_numeros
+from estruturas_condicionais.exercicio_2_2 import verifica_multa
+from estruturas_condicionais.exercicio_2_3 import maior_menor
+from estruturas_condicionais.exercicio_2_4 import calcula_aumento_salarial
+from estruturas_condicionais.exercicio_2_5 import calcula_preco_viagem
 
 
 
