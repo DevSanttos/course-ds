@@ -17,6 +17,27 @@ from estruturas_condicionais.exercicio_2_3 import maior_menor
 from estruturas_condicionais.exercicio_2_4 import calcula_aumento_salarial
 from estruturas_condicionais.exercicio_2_5 import calcula_preco_viagem
 from estruturas_condicionais.exercicio_2_6 import realiza_operacao
+from estruturas_condicionais.exercicio_2_7 import aprova_emprestimo
+from estruturas_condicionais.exercicio_2_8 import calcula_valor_energia_eletrica
+from estruturas_condicionais.exercicio_2_9 import verifica_validade_triangulo
+from estruturas_condicionais.exercicio_2_10 import verifica_validade_angulos_triangulo
+from estruturas_condicionais.exercicio_2_11 import nota_ponderada
+from estruturas_condicionais.exercicio_2_12 import ordena_numeros_crescentemente
+from estruturas_condicionais.exercicio_2_13 import ordena_numeros
+
+
+print(ordena_numeros(7,1,2,4,1,2,3))
+
+
+
+
+
+
+
+
+
+
+
 
 
 
