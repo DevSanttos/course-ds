@@ -24,9 +24,10 @@ from estruturas_condicionais.exercicio_2_10 import verifica_validade_angulos_tri
 from estruturas_condicionais.exercicio_2_11 import nota_ponderada
 from estruturas_condicionais.exercicio_2_12 import ordena_numeros_crescentemente
 from estruturas_condicionais.exercicio_2_13 import ordena_numeros
+from estruturas_condicionais.exercicio_2_14 import verifica_par_impar
 
 
-print(ordena_numeros(7,1,2,4,1,2,3))
+
 
 
 
