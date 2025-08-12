@@ -25,6 +25,12 @@ from estruturas_condicionais.exercicio_2_11 import nota_ponderada
 from estruturas_condicionais.exercicio_2_12 import ordena_numeros_crescentemente
 from estruturas_condicionais.exercicio_2_13 import ordena_numeros
 from estruturas_condicionais.exercicio_2_14 import verifica_par_impar
+from estruturas_condicionais.exercicio_2_15 import apresenta_numeros
+from estruturas_condicionais.exercicio_2_16 import recursos_humanos
+from estrururas_repeticao.exercicio_3_1 import verifica_multiplos
+from estrururas_repeticao.exercicio_3_2 import realiza_multiplicacao
+
+print(realiza_multiplicacao(12, 4))
 
 
 
