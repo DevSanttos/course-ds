@@ -29,8 +29,11 @@ from estruturas_condicionais.exercicio_2_15 import apresenta_numeros
 from estruturas_condicionais.exercicio_2_16 import recursos_humanos
 from estrururas_repeticao.exercicio_3_1 import verifica_multiplos
 from estrururas_repeticao.exercicio_3_2 import realiza_multiplicacao
+from estrururas_repeticao.exercicio_3_4 import realiza_calculo_juros
+from estrururas_repeticao.exercicio_3_5 import calcula_juros_deposito
+from estrururas_repeticao.exercicio_3_6 import realiza_leitura_numero
 
-print(realiza_multiplicacao(12, 4))
+print(realiza_leitura_numero())
 
 
 
